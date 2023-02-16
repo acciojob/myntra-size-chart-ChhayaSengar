@@ -17,5 +17,14 @@ text-align: left;
 }
 td{
 	text-align: right;
-	background-color:
+	
+}
+.tr1{
+	background-color:orange;
+}
+.tr2{
+	background-color:lightpink;
+}
+.tr3{
+	background-color:lightgray;
 }
